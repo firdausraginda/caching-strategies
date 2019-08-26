@@ -1,0 +1,18 @@
+{
+  "name": "try-npm-package",
+  "version": "1.0.0",
+  "description": "try to create npm package for PWA web",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c-1"
+  },
+  "keywords": [
+    "npm-package",
+    "pwa"
+  ],
+  "author": "firdausraginda",
+  "license": "ISC",
+  "dependencies": {
+    "idb": "^4.0.4"
+  }
+}
